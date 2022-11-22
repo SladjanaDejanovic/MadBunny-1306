@@ -1,4 +1,8 @@
-### Not Ola! 👋
+### Hello world! 👋 My name is <a href="https://www.linkedin.com/in/sladjana-dejanovic-93030a256/">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
+
+### My goal is to code every day.<br>
+
+### I'm currently focused on:    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
 
 <!--
 **MadBunny-1306/MadBunny-1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +41,9 @@ Um prazer te receber por aqui =)
 <div align=center>
   <img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> 
   <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
+<img alt="Symbol-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="35" height="35"/>
+
   
 </div>
                                                                                                                                
