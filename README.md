@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere e Figma. <br>
+### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere e Figma.<br>
 
 ###
 Minha meta é fazer código todo dia. <br>
