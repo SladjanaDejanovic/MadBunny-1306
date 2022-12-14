@@ -3,7 +3,7 @@
 ### My goal is to code every day.<br>
 
 ### I'm currently focused on:    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
-It's a pleasure to receive you here =)
+It's a pleasure to see you here =)
 
 <!--
 **MadBunny-1306/MadBunny-1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
