@@ -1,8 +1,8 @@
-### Hello there! 👋 My name is <a href="https://www.linkedin.com/in/sladjana-dejanovic-93030a256/">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
+### Hello there! 👋 I'm <a href="https://www.linkedin.com/in/sladjana-dejanovic-93030a256/">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
 
 ### My goal is to code every day.<br>
 
-### I'm currently focused on:    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
+### I'm currently focused on: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
 It's a pleasure to see you here =)
 
 <!--
