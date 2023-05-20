@@ -33,10 +33,10 @@ Um prazer te receber por aqui =)
 ##
 
 <div align="center">
-<a href="https://github.com/MadBunny-1306">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MadBunny-1306&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadBunny-1306&layout=compact&langs_count=7&theme=material-palenight"/>
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=MadBunny-1306&theme=material-palenight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+<a href="https://github.com/SladjanaDejanovic">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SladjanaDejanovic&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladjanaDejanovic&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=SladjanaDejanovic&theme=material-palenight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   
   
 <div align=center>
