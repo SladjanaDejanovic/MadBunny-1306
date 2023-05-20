@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm <a href="[https://www.linkedin.com/in/sladjana-dejanovic-93030a256/](https://github.com/SladjanaDejanovic)">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
+### Hello there! 👋 I'm <a href="https://github.com/SladjanaDejanovic">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
 
 ### My goal is to code every day.<br>
 
