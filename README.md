@@ -1,6 +1,6 @@
-### Hello there! 👋 I'm <a href="https://github.com/SladjanaDejanovic">Sladjana Dejanovic</a>, and I work in Frontend development. <br>
+### Hello there! 👋 I'm <a href="https://github.com/SladjanaDejanovic">Sladjana Dejanovic</a>, and I work in Frontend development area. <br>
 
-### My goal is to code every day.<br>
+### My goal is to code and learn something new every day :).<br>
 
 ### I'm currently focused on: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
 It's a pleasure to see you here =)
