@@ -32,12 +32,14 @@ Um prazer te receber por aqui =)
 
 ##
 
+
 <div align="center">
 <a href="https://github.com/SladjanaDejanovic">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SladjanaDejanovic&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladjanaDejanovic&layout=compact&langs_count=7&theme=material-palenight"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=SladjanaDejanovic&theme=material-palenight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
-  
+
+  ### Languages and frameworks that i already used:
   
 <div align=center>
   <img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> 
