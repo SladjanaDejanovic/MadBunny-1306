@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm <a href="https://github.com/SladjanaDejanovic">Sladjana Dejanovic</a>, and I work in Frontend development area. <br>
+### Hello there! 👋 I'm <a href="https://github.com/SladjanaDejanovic">Sladjana Dejanovic</a>, and I'm a Frontend devoleper. <br>
 
 ### My goal is to code and learn something new every day :).<br>
 
