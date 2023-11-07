@@ -3,7 +3,7 @@
 ### My goal is to code and learn something new every day :).<br>
 
 ### I'm currently focused on: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
-It's a pleasure to see you here =)
+It's a pleasure to see you here :)
 
 <!--
 **MadBunny-1306/MadBunny-1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Um prazer te receber por aqui =)
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladjanaDejanovic&layout=compact&langs_count=7&theme=material-palenight"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=SladjanaDejanovic&theme=material-palenight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 
-  ### Languages and frameworks that i already used:
+  ### Languages and frameworks that I already used:
   
 <div align=center>
   <img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> 
